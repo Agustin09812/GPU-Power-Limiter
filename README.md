@@ -1,3 +1,9 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/Agustin09812/GPU-Power-Limiter?label=Download%20Latest%20Release&style=for-the-badge)](https://github.com/Agustin09812/GPU-Power-Limiter/releases/latest)
+
+
+---
+
+
 # ⚡ GPU Power Limiter (Windows · NVIDIA)
 
 GPU Power Limiter es una herramienta para Windows que permite modificar el **TDP (Power Limit)** de GPUs NVIDIA utilizando un **servicio en segundo plano** administrado con WinSW.  
